@@ -11,7 +11,7 @@
 
 _Transform your spiritual journey with this beautifully crafted counter app designed for mantra chanting and prayer counting_
 
-[📱 Features](#-features) • [🏗️ Architecture](#️-architecture) • [🚀 Setup](#-getting-started) • [📸 Screenshots](#-screenshots) • [🤝 Contributing](#-contributing)
+[📱 Features](#-features) • [🏗️ Architecture](#️-architecture) • [🚀 Setup](#-getting-started) • [📸 Screenshots](#-screenshots)
 
 ---
 
@@ -23,7 +23,7 @@ _Transform your spiritual journey with this beautifully crafted counter app desi
 
 ### ✨ Why Namah?
 
-- **🙏 Spiritual Focus**: Designed specifically for Hindu, Buddhist, and Sikh spiritual practices
+- **🙏 Spiritual Focus**: Designed specifically for Hindu, Buddhist, Jain and Sikh spiritual practices
 - **🎨 Sacred Aesthetics**: Beautiful orange and golden yellow color scheme inspired by traditional spiritual art
 - **🕉️ Cultural Authenticity**: Proper Devanagari script rendering and culturally appropriate terminology
 - **📱 Modern Experience**: Clean, intuitive interface with smooth animations and transitions
@@ -59,8 +59,9 @@ The app comes with these traditional mantras:
 
 - **ॐ नमः शिवाय** (Om Namah Shivaya)
 - **राम राम** (Ram Ram)
+- **राधे राधे** (Radhe Radhe)
+- **हरे राम हरे कृष्ण** (Hare Rama Hare Krishna)
 - **ॐ गण गणपतये नमः** (Om Gan Ganapataye Namah)
-- **हरे राम हरे राम राम राम हरे हरे हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे** (Hare Rama Hare Krishna)
 - **वाहेगुरु** (Waheguru)
 - **बुद्धं शरणं गच्छामि** (Buddham Sharanam Gacchami)
 - _...and 8+ more sacred mantras_
@@ -231,29 +232,6 @@ VS Code will auto-create `.vscode/launch.json`. Customize if needed:
 
 ---
 
-## 🧪 Testing
-
-### Run Tests
-
-```bash
-# All tests
-flutter test
-
-# Specific test file
-flutter test test/widget_test.dart
-
-# With coverage
-flutter test --coverage
-```
-
-### Test Structure
-
-- **📋 Unit Tests** - Business logic validation
-- **🖼️ Widget Tests** - UI component testing
-- **🔄 Integration Tests** - Full app flow testing
-
----
-
 ## 🚧 Project Status
 
 ### ✅ Completed Features
@@ -328,35 +306,6 @@ lib/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-### 🌟 Ways to Contribute
-
-- 🐛 **Bug Reports** - Found an issue? Let us know!
-- 💡 **Feature Requests** - Have ideas? We'd love to hear them!
-- 🔧 **Code Contributions** - Submit PRs for fixes and features
-- 📖 **Documentation** - Help improve our docs
-- 🌍 **Translations** - Add support for more languages
-
-### 📝 Contribution Guidelines
-
-1. **🍴 Fork** the repository
-2. **🌿 Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **✅ Commit** changes (`git commit -m 'Add amazing feature'`)
-4. **📤 Push** to branch (`git push origin feature/amazing-feature`)
-5. **🔄 Open** a Pull Request
-
-### 🧹 Code Standards
-
-- Follow Flutter/Dart style guide
-- Write tests for new features
-- Update documentation as needed
-- Use meaningful commit messages
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -382,7 +331,6 @@ MIT License - Feel free to use this project for personal and commercial purposes
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 **Made with ❤️ and 🙏 for the spiritual community**
 
