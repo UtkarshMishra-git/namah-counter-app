@@ -4,11 +4,12 @@
 # But not these:
 !lib/
 !lib/** 
+!screenshots/
 !pubspec.yaml
 !pubspec.lock
 !.gitignore
 !README.md
-!screenshots/
+
 
 
 # Miscellaneous
