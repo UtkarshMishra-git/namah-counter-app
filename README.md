@@ -223,10 +223,10 @@ VS Code will auto-create `.vscode/launch.json`. Customize if needed:
 
 <div align="center">
 
-|            Landing Screen            |            Mantra Selection             |             Counter Screen              |
-| :----------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| ![Landing](screenshots/landing.png)  | ![Selection](screenshots/selection.png) | ![Counter](screenshots/counter.png.png) |
-| Beautiful "नमः" with auto-navigation |   Sacred mantras with custom addition   |    Jap counter with selected mantra     |
+|             Landing Screen              |            Mantra Selection             |               Counter Screen                |
+| :-------------------------------------: | :-------------------------------------: | :-----------------------------------------: |
+| ![Landing](lib/screenshots/landing.png) | ![Selection](screenshots/selection.png) | ![Counter](lib/screenshots/counter.png.png) |
+|  Beautiful "नमः" with auto-navigation   |   Sacred mantras with custom addition   |      Jap counter with selected mantra       |
 
 </div>
 
