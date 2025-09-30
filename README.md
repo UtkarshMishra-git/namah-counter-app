@@ -203,7 +203,7 @@ VS Code will auto-create `.vscode/launch.json`. Customize if needed:
 
 ```json
 {
-  "version": "0.2.0",
+  "version": "1.0.0",
   "configurations": [
     {
       "name": "namah_counter",

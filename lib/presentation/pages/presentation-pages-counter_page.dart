@@ -64,11 +64,11 @@ class CounterPage extends ConsumerWidget {
         children: [
           // App Title
           Text(
-            'Namah',
+            'नमः',
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                  color: AppTheme.primaryOrange,
-                  fontWeight: FontWeight.w700,
-                ),
+                color: AppTheme.primaryOrange,
+                fontWeight: FontWeight.w800,
+                fontSize: 40),
           ),
 
           // Reset Button
@@ -79,9 +79,9 @@ class CounterPage extends ConsumerWidget {
             style: ElevatedButton.styleFrom(
               backgroundColor: AppTheme.secondaryOrange,
               foregroundColor: Colors.white,
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
               shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(20),
+                borderRadius: BorderRadius.circular(10),
               ),
             ),
           ),
