@@ -225,7 +225,7 @@ VS Code will auto-create `.vscode/launch.json`. Customize if needed:
 
 |             Landing Screen              |            Mantra Selection             |               Counter Screen                |
 | :-------------------------------------: | :-------------------------------------: | :-----------------------------------------: |
-| ![Landing](lib/screenshots/landing.png) | ![Selection](screenshots/selection.png) | ![Counter](lib/screenshots/counter.png.png) |
+| ![Landing](lib/screenshots/landing.png) | ![Selection](screenshots/selection.png) | ![Counter](lib/screenshots/counter.png) |
 |  Beautiful "नमः" with auto-navigation   |   Sacred mantras with custom addition   |      Jap counter with selected mantra       |
 
 </div>
